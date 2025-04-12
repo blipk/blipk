@@ -2,7 +2,7 @@
 
 ### Projects & Languages
 
-I mostly develop in `TypeScript` and `Python`, and also have some experience with `C#` and systems languages (`C/++`, `Golang`).
+I mostly develop in `TypeScript` and `Python`, and also I have experience with `C#` and systems languages (`C/++`, `Golang`).
 
 See my pins below for my most popular projects.
 
